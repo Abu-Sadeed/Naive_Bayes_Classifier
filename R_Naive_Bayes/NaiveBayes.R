@@ -1,6 +1,6 @@
 # Naive Bayes Algorithm
 # A classification technique based on Bayes' Theorem. Works best on two level features.
-# Features with less more two levels will result in less accuracy.
+# Features with more than two levels will result in less accuracy.
 # It can handle large data sets better than KNN.
 # Bayes theorem provides a way of calculating posterior probability P(c|x) from P(c), P(x) and P(x|c)
 # Naive Bayes algorithms are mostly used in sentiment analysis, spam filtering, recommendation systems etc.
