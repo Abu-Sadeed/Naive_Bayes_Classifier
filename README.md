@@ -10,3 +10,8 @@ Naive Bayes model is easy to build and particularly useful for very large data s
 * On the other side naive Bayes is also known as a bad estimator, so the probability outputs from predict_proba are not to be taken too seriously.
 * Another limitation of Naive Bayes is the assumption of independent predictors. In real life, it is almost impossible that we get a set of predictors which are completely independent.
 
+## Links
+* [Data](https://duckduckgo.com).
+* [Python Model](https://duckduckgo.com).
+* [R Model](https://duckduckgo.com).
+* [Report](https://duckduckgo.com).
